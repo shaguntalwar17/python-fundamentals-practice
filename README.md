@@ -1,7 +1,7 @@
 # Python Fundamentals Practice
 
 This repository contains my complete Python learning journey — from **basic concepts** to **advanced programming**, along with **practice codes and mini projects**.  
-It reflects my strong foundation in Python and my consistent hands-on approach to learning.
+It reflects my strong foundation in Python and my consistent hands-on approach to learning..
 
 ---
 
